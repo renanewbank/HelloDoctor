@@ -1,0 +1,11 @@
+:root{
+    --font-1-color: #FFF;
+    --font-2-color: #000;
+    --background-color-1: #0F3769;
+    --background-color-2: #58aacd86;
+    --btn-background-color: #58A9CD;
+    --btn-hover-color: #d3bc73a2;
+    --font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    --font-size-base: 16px;
+    --spacing-unit: 8px;
+}
